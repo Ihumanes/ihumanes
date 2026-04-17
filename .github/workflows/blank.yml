@@ -1,0 +1,68 @@
+Actúa como un diseñador web senior y experto en gestión de proyectos IT.
+Genera una página web completa en HTML (con CSS embebido y un poco de JavaScript si es necesario) para una presentación tipo kickoff de un proyecto corporativo.
+
+Contexto del proyecto
+
+Se trata de la implantación y despliegue de una herramienta de gestión de proyectos que sustituirá el uso actual de Excel.
+El objetivo es industrializar la gestión de proyectos mediante un entorno colaborativo, estructurado y escalable.
+
+Objetivos de la página
+
+La página debe ser visual, moderna y pensada para presentar en una reunión ejecutiva o de equipos.
+Debe poder alojarse en GitHub Pages (HTML estático).
+
+Contenido que debe incluir
+Portada / Hero
+Título: "Kickoff Proyecto Implantación Herramienta de Gestión de Proyectos"
+Subtítulo: Transformación desde Excel hacia un entorno colaborativo
+Estética profesional (corporativa, minimalista)
+Contexto y Problema Actual
+Uso de Excel como herramienta principal
+Limitaciones: falta de colaboración, versionado, trazabilidad, escalabilidad
+Visión del Proyecto
+Entorno colaborativo
+Gestión estructurada
+Mejora de eficiencia y control
+Objetivos Clave
+Eliminar Excel como herramienta principal
+Estandarizar procesos de gestión de proyectos
+Mejorar visibilidad y reporting
+Enfoque de Implantación
+Despliegue progresivo
+Configuración iterativa
+Validación continua con equipos
+Plan de Trabajo (próximas semanas)
+Mostrar una timeline visual o roadmap con semanas
+Fases:
+Semana 1-2: Setup inicial y configuración base
+Semana 3-4: Pruebas con equipos piloto
+Semana 5-6: Ajustes y mejora continua
+Semana 7+: Escalado
+Modelo de Trabajo
+Enfoque por equipos
+Colaboración activa
+Feedback continuo
+Beneficios Esperados
+Mayor eficiencia
+Transparencia
+Reducción de errores
+Escalabilidad
+Call to Action
+Mensaje motivador tipo: “Empezamos el cambio juntos”
+Requisitos de diseño
+Diseño moderno tipo presentación (similar a slides)
+Secciones en scroll vertical
+Uso de iconos simples (puedes usar emojis o librerías ligeras)
+Colores neutros con acentos en azul o verde
+Tipografía limpia (tipo Google Fonts)
+Responsive (adaptado a móvil)
+Extras deseables
+Animaciones suaves al hacer scroll
+Timeline visual atractiva
+Tarjetas (cards) para objetivos/beneficios
+Output esperado
+Un único archivo HTML completo listo para usar
+Código limpio y bien comentado
+Sin dependencias complejas (solo CDN si es necesario)
+
+No expliques el código. Devuelve solo el HTML.
